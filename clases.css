@@ -1,0 +1,126 @@
+header{
+	/*background-color: #FFE9FF;*/
+	background: url(http://pad2.whstatic.com/images/thumb/4/4f/Dance-Tahitian-Step-6.jpg/670px-Dance-Tahitian-Step-6.jpg);
+	height: 100%;
+	padding-top:1px;
+}
+
+
+
+.centrar-texto{
+	text-align: center;
+	/*text-align: justify;*/
+}
+
+.big-top-space{
+	margin-top: 100px;
+}
+
+.tipo-letra{
+
+	font-family: 'Poiret One', cursive;
+}
+
+.letra-titulo{
+	font-family: 'Pacifico', cursive;
+}
+
+.letra-mediana{
+	font-size: 3.2em;
+	font-weight:bold;
+}
+.letra-peque{
+	font-size: 1.2em;
+	font-weight:bold;
+}
+
+.izquierdo{
+	width: 95%;
+	margin-left:auto;
+}
+
+.izquierdo-texto{
+	width: 98%;
+	margin-left:auto;
+}
+
+.inline-block{
+	display: inline-block;
+	margin-right: -4px;
+}
+
+.a-lado{
+	width: 25%;
+}
+
+.espacio-peque-abajo {
+  margin-bottom: -1em;
+}
+
+.espacio-grande-abajo{
+	margin-bottom: 5em;
+}
+
+.max-ancho{
+	min-width: 150px;
+}
+
+.color-rojo{
+	color: red;
+}
+
+.color-azul{
+	color: blue;
+}
+
+.color-verde{
+	color: green;
+}
+
+.color-morado{
+	color: purple;
+	
+}
+
+.color-aqua{
+	color: aqua;
+}
+
+.color-rosa{
+	color: #FE2E9A;
+	font-weight:bold;
+}
+.color-blanco{
+	color: white;
+
+}
+
+.color-amarillo{
+	color: yellow;
+}
+
+.color-negro{
+	color: black;
+}
+
+.color-naranja{
+	color: #FF8000;
+}
+
+.color-aquaverde{
+	color: #01DF74;
+}
+
+.color-titulo{
+	color: #0FABF4;
+}
+
+.color-fiusha{
+	color: #FF008D;
+}
+	
+	
+	
+	
+	
+	
